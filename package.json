@@ -1,0 +1,27 @@
+{
+  "name": "lsch",
+  "version": "1.0.0",
+  "description": "The LiveSCript sHell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summivox/lsch.git"
+  },
+  "keywords": [
+    "shell",
+    "javascript",
+    "node"
+  ],
+  "author": "summivox <summivox@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/summivox/lsch/issues"
+  },
+  "homepage": "https://github.com/summivox/lsch#readme",
+  "dependencies": {
+    "livescript": "^1.4.0"
+  }
+}
