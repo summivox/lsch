@@ -1,7 +1,7 @@
 {
   "name": "lsch",
   "version": "1.0.0",
-  "description": "The LiveSCript sHell",
+  "description": "The Livescript Shell",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
